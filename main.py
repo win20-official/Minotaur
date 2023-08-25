@@ -14,8 +14,7 @@ def clear():
 
 def code():
     clear()
-    print(f"{Fore.GREEN}[:] Minotaur 1.0\n")
-    print(f"{Fore.GREEN}[:] Don't call Windows Vista SP2 'Shitdows Pissta' CollabVM admins and call Windows 10 and 11 Shitdows\n")
+    print(f"{Fore.GREEN}[:] Minotaur 1.1\n")
     print(f"{Fore.MAGENTA}=====================================")
     print(f"{Fore.RED}0 - Exit the program")
     print(f"{Fore.RED}1 - RNG MD5 hash")
